@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Also, I'm a national first-level athlete in Swimming.
 -->
 
-[![FishGod's github stats](https://github-readme-stats.vercel.app/api?username=sty-hhh&show_icons=true&hide_border=true&text_color=0f0&icon_color=fff&bg_color=000 "![FishGod's github stats")](https://github.com/sty-hhh/sty-hhh)
+[![FishGod's github stats](https://github-readme-stats.vercel.app/api?username=sty-hhh&show_icons=true&hide_border=true&text_color=0f&icon_color=fff&bg_color=000 "![FishGod's github stats")](https://github.com/sty-hhh/sty-hhh)
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sty-hhh&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=eee "![Most used languages")](https://github.com/sty-hhh/sty-hhh)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sty-hhh&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=e "![Most used languages")](https://github.com/sty-hhh/sty-hhh)
 
 <div><img src="https://visitor-badge.glitch.me/badge?page_id=sty-hhh" /> </div>
