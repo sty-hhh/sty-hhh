@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sty-hhh&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=ff "![Most used languages")](https://github.com/sty-hhh/sty-hhh)
 
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=sty-hhh" /> </div>
+<div><img src="https://visitor-badge.glitch.me/badge?page_id=sty-hhh" /> </div>
