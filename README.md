@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - 😄 I’m Tianyu Shi, a senior undergraduate student at Sun Yat-sen University.
 - 📫 Currently, my research interest mainly focuses on Natural Language Processing.
-- ⚡ Also, I'm a national first-cASasASas athlete in Swimming.
+- ⚡ Also, I'm a national first-class athlete in Swimming.
 -->
 
 <div><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" /></div>
