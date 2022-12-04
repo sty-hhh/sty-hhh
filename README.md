@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 😄 I’m Tianyu Shi, a senior undergraduate student at Sun Yat-sen University.
 - 📫 Currently, my research interest mainly focuses on Natural Language Processing.
-- ⚡ Also, I'm a National First-level Athlete in Swimming.
+- ⚡ Also, I'm a National First-class Athlete in Swimming.
 <!--
 **sty-hhh/sty-hhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
