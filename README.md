@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😄 I’m Tianyu Shi, a senior undergraduate student at Sun Yat-sen University.
+- 😄 A senior undergraduate student at Sun Yat-sen University.
 - 📫 Currently, my research interest mainly focuses on Natural Language Processing.
 - ⚡ Also, I'm a National First-class Athlete in Swimming.
 <!--
