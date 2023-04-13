@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 😄 A senior undergraduate student at Sun Yat-sen University.
-- 📫 Currently, my research interest mainly focuses on Natural Language Processing.
+- 😄 Incoming MSE.ECE student at The University of Texas at Austin.
+- 📫 Currently, my work mainly focuses on Software Engineering and Systems.
 - ⚡ Also, I'm a National First-class Athlete in Swimming.
 <!--
 **sty-hhh/sty-hhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
