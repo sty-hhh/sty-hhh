@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😄 Incoming MSE.ECE student at The University of Texas at Austin.
+- 😄 I'm an incoming MSE.ECE student at The University of Texas at Austin.
 - 📫 Currently, my work mainly focuses on Software Engineering and Systems.
 - ⚡ Also, I'm a National First-class Athlete in Swimming.
 <!--
