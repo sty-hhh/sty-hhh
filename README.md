@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 I'm an incoming MSE in ECE-SES student at The University of Texas at Austin.
-- 📫 Currently, my work mainly focuses on Software Engineering and Systems.
+- 📫 Currently, my work mainly focuses on Software Engineering & Systems.
 - ⚡ Also, I'm a National First-class Athlete in Swimming.
 <!--
 **sty-hhh/sty-hhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
