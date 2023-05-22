@@ -9,6 +9,8 @@
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sty-hhh&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=eef "![Most used languages")](https://github.com/sty-hhh/sty-hhh)
 
+<div><img src="https://visitor-badge.glitch.me/badge?page_id=sty-hhh" /> </div>
+
 
 Here are some ideas to get you started:
 
@@ -19,4 +21,4 @@ Here are some ideas to get you started:
 
 <div><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" /></div>
 
-<div><img src="https://visitor-badge.glitch.me/badge?page_id=sty-hhh" /> </div>
+
