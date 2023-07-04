@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😄 I'm a Master of Software Engineering student at The University of Texas at Austin.
+- 😄 I'm a Master of Software Engineering student at University of Texas at Austin.
 - 📫 Currently, my work mainly focuses on Software Engineering & Systems.
 - ⚡ Also, I'm a National First-class Athlete in Swimming.
 <!--
